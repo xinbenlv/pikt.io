@@ -1,0 +1,42 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-40-28 21:6:6",
+  "loopSlideshow" : 0,
+  "filename" : "Pitch Deck for PiKT token airdrop made easy v.0.0.6 copy",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Pitch Deck for PiKT token airdrop made easy v.0.0.6 copy",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "04E1144B-AB24-485C-AC9A-5910F2F530CE"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 1,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "OpenSans-Bold",
+    "RobotoSlab-Bold",
+    "PTSans-BoldItalic",
+    "Helvetica",
+    "PlutoSansBold",
+    "Helvetica-Light",
+    "PlutoSansBlack",
+    "Helvetica-LightOblique",
+    "GillSans",
+    "OpenSans",
+    "Bebas",
+    "OpenSans-Extrabold",
+    "OpenSans-Semibold",
+    "PlutoSansRegular",
+    "HelveticaNeue",
+    "Helvetica-Bold"
+  ]
+}
